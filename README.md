@@ -15,7 +15,7 @@ Patch Bahasa Indonesia untuk Octopath Traveler 2 (Steam)
 <img src="./screenshot/Screenshot (383).png"/>
 
 # Cara kontribusi
-- [Fork repo ini[(https://github.com/AyraHikari/OctopathTraveler2Indonesia/fork)
+- [Fork repo ini][(https://github.com/AyraHikari/OctopathTraveler2Indonesia/fork)
 - Edit file GameTextEN.uasset.txt atau TalkData_EN.uasset.txt
 - Setelah selesai, upload dan commit ke repo hasil fork tadi
 - [Buat pull requests](https://github.com/AyraHikari/OctopathTraveler2Indonesia/compare)
